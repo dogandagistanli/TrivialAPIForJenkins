@@ -21,17 +21,7 @@ The project is intended to be used with Jenkins to showcase automated testing an
 
 ---
 
-## Project Preview
 
-
-![API Output](MerhabaAPI.PNG)
-
-
-
-When the API is called via browser or HTTP client, it simply returns:
-
-![Jenkins Configuration](successfulconfiguration.PNG)
----
 
 ## Usage
 
@@ -42,3 +32,20 @@ Example response:
 {
   "message": "Merhaba API!"
 }
+```
+## Project Preview
+Below are some visuals demonstrating the API output and Jenkins configuration:
+
+When the API is called via browser or HTTP client, it simply returns:
+![API Output](MerhabaAPI.PNG)
+
+
+
+
+
+![Jenkins Configuration](successfulconfiguration.PNG)
+---
+
+
+
+
