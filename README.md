@@ -37,6 +37,7 @@ Example response:
 Below are some visuals demonstrating the API output and Jenkins configuration:
 
 When the API is called via browser or HTTP client, it simply returns:
+
 ![API Output](MerhabaAPI.PNG)
 
 
