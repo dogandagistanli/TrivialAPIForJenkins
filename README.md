@@ -21,6 +21,19 @@ The project is intended to be used with Jenkins to showcase automated testing an
 
 ---
 
+## Project Preview
+
+Below are some visuals demonstrating the API output and Jenkins configuration:
+
+![API Output](MerhabaAPI.png)
+
+### 1. API HTTP Response
+
+When the API is called via browser or HTTP client, it simply returns:
+
+![Jenkins Configuration](successfulconfiguration.png)
+---
+
 ## Usage
 
 Run the API server and send a GET request to the endpoint (e.g., `/hello`) to receive the greeting message.
