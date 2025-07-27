@@ -59,7 +59,3 @@ When the API is called via browser or HTTP client, it simply returns:
 
 ![Jenkins Configuration](successfulconfiguration.PNG)
 ---
-
-
-
-
