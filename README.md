@@ -25,7 +25,20 @@ The project is intended to be used with Jenkins to showcase automated testing an
 
 ## Usage
 
-Run the API server and send a GET request to the endpoint (e.g., `/hello`) to receive the greeting message.
+Run the API server and send a GET request to the endpoint (e.g., `/hello`) to receive the greeting message.,
+
+Run the API server:
+
+```bash
+mvn clean install
+mvn spring-boot:run
+```
+
+Send a request to the API:
+
+```bash
+curl http://localhost:8080/hello
+```
 
 Example response:
 ```json
