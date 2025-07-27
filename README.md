@@ -23,11 +23,10 @@ The project is intended to be used with Jenkins to showcase automated testing an
 
 ## Project Preview
 
-Below are some visuals demonstrating the API output and Jenkins configuration:
 
 ![API Output](MerhabaAPI.PNG)
 
-### 1. API HTTP Response
+
 
 When the API is called via browser or HTTP client, it simply returns:
 
